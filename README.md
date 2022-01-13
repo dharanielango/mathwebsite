@@ -218,7 +218,7 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![output](./math.png)
+![output](./d.png)
 
 ## Result:
 
